@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mildsvm"]
+	path = mildsvm
+	url = https://github.com/skent259/mildsvm
+	shallow = true
+	registered = true
