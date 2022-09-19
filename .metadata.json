@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "mildsvm",
+    "oncran": true
+  }
+]
